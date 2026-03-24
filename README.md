@@ -1,7 +1,9 @@
 # dotnet-corefx-sdk
 
 [![CI](https://github.com/osisdie/dotnet-corefx-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/osisdie/dotnet-corefx-sdk/actions/workflows/ci.yml)
-[![NuGet](https://img.shields.io/nuget/v/CoreFX.Abstractions)](https://www.nuget.org/packages/CoreFX.Abstractions)
+[![NuGet](https://img.shields.io/nuget/v/CoreFX.Abstractions?label=nuget)](https://www.nuget.org/packages?q=CoreFX)
+[![.NET 8](https://img.shields.io/badge/.NET-8.0%20LTS-512bd4)](https://dotnet.microsoft.com/download/dotnet/8.0)
+[![.NET 10](https://img.shields.io/badge/.NET-10.0%20LTS-512bd4)](https://dotnet.microsoft.com/download/dotnet/10.0)
 [![License](https://img.shields.io/github/license/osisdie/dotnet-corefx-sdk)](LICENSE)
 
 English | [繁體中文](README.zh-TW.md)
