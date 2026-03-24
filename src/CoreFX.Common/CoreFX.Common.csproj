@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>CoreFX common utilities — SvcContext, string/datetime/file extensions</Description>
+    <PackageTags>corefx;common;utilities;extensions</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreFX.Abstractions\CoreFX.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

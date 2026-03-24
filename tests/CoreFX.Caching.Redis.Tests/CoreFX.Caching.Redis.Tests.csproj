@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\CoreFX.Caching.Redis\CoreFX.Caching.Redis.csproj" />
+  </ItemGroup>
+
+</Project>

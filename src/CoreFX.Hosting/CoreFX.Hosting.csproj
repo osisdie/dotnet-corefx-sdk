@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>CoreFX hosting middleware — exception handling, JWT authorization, request/response logging, Swagger</Description>
+    <PackageTags>corefx;hosting;middleware;swagger</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IO.RecyclableMemoryStream" Version="3.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.7.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreFX.Auth\CoreFX.Auth.csproj" />
+    <ProjectReference Include="..\CoreFX.Common\CoreFX.Common.csproj" />
+  </ItemGroup>
+
+</Project>

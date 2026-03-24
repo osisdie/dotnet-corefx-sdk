@@ -1,0 +1,24 @@
+<Project>
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net10.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>true</IsPackable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);CS1591</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>osisdie</Authors>
+    <Company>osisdie</Company>
+    <PackageProjectUrl>https://github.com/osisdie/dotnet-corefx-sdk</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/osisdie/dotnet-corefx-sdk</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.0</Version>
+    <Description>Modular .NET SDK for building WebAPIs</Description>
+    <PackageTags>dotnet;webapi;sdk;corefx</PackageTags>
+  </PropertyGroup>
+
+</Project>

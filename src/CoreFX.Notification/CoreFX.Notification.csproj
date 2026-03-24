@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>CoreFX notification services — email via MailKit with scheduled reporting</Description>
+    <PackageTags>corefx;notification;email;mailkit</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="4.15.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreFX.Abstractions\CoreFX.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

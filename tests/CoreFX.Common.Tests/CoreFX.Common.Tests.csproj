@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\CoreFX.Common\CoreFX.Common.csproj" />
+  </ItemGroup>
+
+</Project>

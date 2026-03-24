@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CoreFX.Abstractions/CoreFX.Abstractions.csproj" />
+    <Project Path="src/CoreFX.Auth/CoreFX.Auth.csproj" />
+    <Project Path="src/CoreFX.Caching.Redis/CoreFX.Caching.Redis.csproj" />
+    <Project Path="src/CoreFX.Common/CoreFX.Common.csproj" />
+    <Project Path="src/CoreFX.DataAccess.Mapper/CoreFX.DataAccess.Mapper.csproj" />
+    <Project Path="src/CoreFX.Hosting/CoreFX.Hosting.csproj" />
+    <Project Path="src/CoreFX.Logging.Log4net/CoreFX.Logging.Log4net.csproj" />
+    <Project Path="src/CoreFX.Notification/CoreFX.Notification.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CoreFX.Abstractions.Tests/CoreFX.Abstractions.Tests.csproj" />
+    <Project Path="tests/CoreFX.Auth.Tests/CoreFX.Auth.Tests.csproj" />
+    <Project Path="tests/CoreFX.Caching.Redis.Tests/CoreFX.Caching.Redis.Tests.csproj" />
+    <Project Path="tests/CoreFX.Common.Tests/CoreFX.Common.Tests.csproj" />
+    <Project Path="tests/CoreFX.DataAccess.Mapper.Tests/CoreFX.DataAccess.Mapper.Tests.csproj" />
+    <Project Path="tests/CoreFX.Hosting.Tests/CoreFX.Hosting.Tests.csproj" />
+    <Project Path="tests/CoreFX.Logging.Log4net.Tests/CoreFX.Logging.Log4net.Tests.csproj" />
+    <Project Path="tests/CoreFX.Notification.Tests/CoreFX.Notification.Tests.csproj" />
+  </Folder>
+</Solution>

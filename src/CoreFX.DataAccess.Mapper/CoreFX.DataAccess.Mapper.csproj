@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>CoreFX AutoMapper integration — mapping provider and DI extensions</Description>
+    <PackageTags>corefx;automapper;data-access;mapping</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="16.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreFX.Abstractions\CoreFX.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
