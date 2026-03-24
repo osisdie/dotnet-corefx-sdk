@@ -1,5 +1,7 @@
 # dotnet-corefx-sdk
 
+English | [繁體中文](README.zh-TW.md)
+
 Modular .NET SDK for building WebAPIs — authentication, caching, logging, hosting middleware, and more.
 
 ## Modules
