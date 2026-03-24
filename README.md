@@ -1,5 +1,9 @@
 # dotnet-corefx-sdk
 
+[![CI](https://github.com/osisdie/dotnet-corefx-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/osisdie/dotnet-corefx-sdk/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/CoreFX.Abstractions)](https://www.nuget.org/packages/CoreFX.Abstractions)
+[![License](https://img.shields.io/github/license/osisdie/dotnet-corefx-sdk)](LICENSE)
+
 English | [繁體中文](README.zh-TW.md)
 
 Modular .NET SDK for building WebAPIs — authentication, caching, logging, hosting middleware, and more.
@@ -33,7 +37,7 @@ CoreFX.Abstractions           (foundation)
 ## Target Frameworks
 
 - `net8.0` (.NET 8 LTS)
-- `net10.0` (.NET 10)
+- `net10.0` (.NET 10 LTS)
 
 ## Quick Start
 

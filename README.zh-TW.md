@@ -1,5 +1,9 @@
 # dotnet-corefx-sdk
 
+[![CI](https://github.com/osisdie/dotnet-corefx-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/osisdie/dotnet-corefx-sdk/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/CoreFX.Abstractions)](https://www.nuget.org/packages/CoreFX.Abstractions)
+[![License](https://img.shields.io/github/license/osisdie/dotnet-corefx-sdk)](LICENSE)
+
 [English](README.md) | 繁體中文
 
 模組化 .NET SDK，用於建構 WebAPI — 驗證、快取、日誌、中介軟體等。
@@ -33,7 +37,7 @@ CoreFX.Abstractions           （基礎層）
 ## 目標框架
 
 - `net8.0`（.NET 8 LTS）
-- `net10.0`（.NET 10）
+- `net10.0`（.NET 10 LTS）
 
 ## 快速開始
 
